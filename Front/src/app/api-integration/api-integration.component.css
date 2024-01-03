@@ -1,0 +1,16 @@
+/* api-integration.component.css */
+div {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  h3 {
+    color: #333;
+  }
+  
+  .error {
+    color: red;
+  }
+  

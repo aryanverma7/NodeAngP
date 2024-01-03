@@ -1,0 +1,11 @@
+<!-- api-integration.component.html -->
+<div>
+    <h3>API Integration</h3>
+    <div *ngIf="loading">Loading...</div>
+    <div *ngIf="error" class="error">{{ error }}</div>
+    <div *ngIf="apiData">
+      <!-- Display the fetched data here -->
+      <!-- Example: {{ apiData.title }} -->
+    </div>
+  </div>
+  

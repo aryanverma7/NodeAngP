@@ -1,0 +1,21 @@
+/* shopping-cart.component.css */
+div {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 5px;
+  }
+  
+  input {
+    margin-right: 10px;
+  }
+  

@@ -1,0 +1,17 @@
+/* home.component.css */
+div {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  p {
+    margin-top: 10px;
+    color: #666;
+  }
+  
